@@ -8,7 +8,7 @@ datasource:
   sampleapp:
     url: jdbc:mysql://107.22.132.68:3306/springboot
     username: root1
-    password: tiger
+    password: tiger1
     driverClassName: com.mysql.jdbc.Driver
     defaultSchema:
     maxPoolSize: 20
