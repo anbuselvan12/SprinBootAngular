@@ -7,7 +7,7 @@ server:
 datasource:
   sampleapp:
     url: jdbc:mysql://107.22.132.68:3306/springboot
-    username: root
+    username: root1
     password: tiger
     driverClassName: com.mysql.jdbc.Driver
     defaultSchema:
