@@ -72,12 +72,12 @@
 		<repository>
 			<id>central</id>
 			<name>f0fc730f0598-releases</name>
-			<url>http://52.87.248.85:8081/artifactory/libs-release-local</url>
+			<url>http://54.82.74.122:8081/artifactory/libs-release-local</url>
 		</repository>
 		<snapshotRepository>
 			<id>snapshots</id>
 			<name>f0fc730f0598-snapshots</name>
-			<url>http://52.87.248.85:8081/artifactory/libs-snapshot-local</url>
+			<url>http://54.82.74.122:8081/artifactory/libs-snapshot-local</url>
 		</snapshotRepository>
 	</distributionManagement>
 </project>
